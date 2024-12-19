@@ -187,7 +187,7 @@ st.markdown(soundwaves_css, unsafe_allow_html=True)
 st.markdown('<div class="main-container">', unsafe_allow_html=True)
 
 # Title and Subtitle
-st.title("Audio2Transcription")
+st.title("Audio2Corpus")
 st.markdown('<p class="subtitle">This app transcribes speech to text</p>', unsafe_allow_html=True)
 
 # Equalizer bars
